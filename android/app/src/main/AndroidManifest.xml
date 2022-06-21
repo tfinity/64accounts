@@ -2,7 +2,7 @@
     package="com.example.accounts64">
    <application
         android:usesCleartextTraffic="true"
-        android:label="accounts64"
+        android:label="64 Account"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
