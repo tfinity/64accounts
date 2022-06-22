@@ -20,11 +20,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'LaveLive',
+      title: '64 Account',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'LaveLive'),
+      home: const MyHomePage(title: '64 Account'),
     );
   }
 }
